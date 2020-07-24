@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_leaves - number of leaves
- * @tree: root 
+ * @tree: root
  * Return: number of leaves
  */
 
